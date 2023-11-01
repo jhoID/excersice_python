@@ -6,5 +6,4 @@ def color_code(color):
 
 
 def colors():
-    for color in COLORS:
-        print(color)
+    return COLORS
