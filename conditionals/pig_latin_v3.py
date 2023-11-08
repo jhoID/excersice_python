@@ -83,4 +83,4 @@ def translate(text):
         result += translate_word(word) + ' '
     return result
 
-print(translate("quick fast run"))
+print(translate("rhythm"))
